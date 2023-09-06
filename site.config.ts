@@ -6,7 +6,7 @@ export default {
   registrationDisabled: false,
 
   // site slogan
-  slogan: "Free nostr addresses, Made with love, for Thai(and everyone) by Thai.",
+  slogan: "Free nostr addresses, Made with love.</br>เพื่อทุกคน เพื่ออิสระภาพ.",
 
   // your donation LNURL
   donationLNUrl:
