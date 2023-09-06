@@ -6,7 +6,7 @@ export default {
   registrationDisabled: false,
 
   // site slogan
-  slogan: "FREE NOSTR ADDRESSES, FOR EVERYONE FOR FREEDOM.เพื่อทุกคน เพื่ออิสระภาพ.",
+  slogan: "FREE NOSTR ADDRESSES. เพื่อทุกคน เพื่ออิสระภาพ.",
 
   // your donation LNURL
   donationLNUrl:
