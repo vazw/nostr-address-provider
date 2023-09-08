@@ -2,7 +2,7 @@ export default {
   // your domain name
   host: "siamstr.com",
 
-  // set to true to disable registration site-wide
+  // set to true to disable registration site-wid
   registrationDisabled: false,
 
   // site slogan
