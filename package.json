@@ -12,8 +12,8 @@
     "astro": "astro"
   },
   "dependencies": {
+    "@astrojs/node": "^5.3.6",
     "@astrojs/react": "^2.2.0",
-    "@astrojs/vercel": "^3.4.0",
     "astro": "^2.5.5",
     "clsx": "^1.2.1",
     "date-fns": "^2.30.0",
